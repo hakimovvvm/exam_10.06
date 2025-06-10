@@ -1,0 +1,11 @@
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/exam_10.06/Domain/bin/Debug/net9.0/Domain.deps.json
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/exam_10.06/Domain/bin/Debug/net9.0/Domain.dll
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/exam_10.06/Domain/bin/Debug/net9.0/Domain.pdb
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/exam_10.06/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/exam_10.06/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/exam_10.06/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/exam_10.06/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/exam_10.06/Domain/obj/Debug/net9.0/Domain.dll
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/exam_10.06/Domain/obj/Debug/net9.0/refint/Domain.dll
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/exam_10.06/Domain/obj/Debug/net9.0/Domain.pdb
+/home/hakimovvv_m/Рабочий стол/DotNet/week 9/exam_10.06/Domain/obj/Debug/net9.0/ref/Domain.dll
